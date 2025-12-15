@@ -1,0 +1,2 @@
+create database hospitalmanagement_system
+use hospitalmanagement_system
